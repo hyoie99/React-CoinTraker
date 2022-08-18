@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Silkscreen&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.App .title {
+  font-family: "Silkscreen", cursive;
+  font-size: 40px;
+}
+.App .buttons button {
+  font-family: "Silkscreen", cursive;
+  border: 1.5px dotted #000;
+  background-color: transparent;
+  font-size: 10px;
+  margin-left: 25px;
+}
+.App .coin-list li {
+  font-family: "Montserrat", sans-serif;
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  margin-top: 15px;
+}
+.App .coin-convert {
+  font-family: "Montserrat", sans-serif;
+}
+.App .coin-convert select {
+  appearance: none;
+  border: 1px solid rgb(120, 120, 120);
+  padding: 5px 10px;
+  margin-top: 20px;
+}
+.App .coin-convert input {
+  margin-top: 20px;
+  border: none;
+  border-bottom: 1px solid #000;
+  padding: 2px 5px;
+}
+.App .coin-convert span {
+  font-size: 12px;
+}
+.App .coin-convert h3 {
+  margin-top: 30px;
+  font-size: 18px;
+  text-align: center;
+}
+.App .coin-convert h3 span {
+  font-size: 18px;
+  color: rgb(0, 100, 200);
+}
+
+/*# sourceMappingURL=App.css.map */
