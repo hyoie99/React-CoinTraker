@@ -3,4 +3,4 @@
 Coin tracker By react With nomad_coder
 
 > Result
-> https://hyoie99.github.io/react-coin-tracker/
+> https://hyoie99.github.io/React-CoinTraker/
